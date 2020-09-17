@@ -1,0 +1,26 @@
+/*Larger than Mobile screen: 40.0rem (640px)
+Larger than Tablet screen: 80.0rem (1280px)
+Larger than Desktop screen: 120.0rem (1920px)*/
+
+/* Larger than mobile screen */
+@media (min-width: 40.0rem) { 
+    .resume {
+        padding: 0 3.5rem;
+    }
+    
+    .resume__content{
+        box-shadow: 2px 2px 6px #AAA;
+    }
+}
+
+/* Larger than tablet screen */
+@media (min-width: 80.0rem) { 
+    .resume {
+        padding: 0 15.5rem;
+    }
+}
+
+/* Larger than desktop screen */
+/*@media (min-width: 120.0rem) { 
+
+}*/
