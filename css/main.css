@@ -198,18 +198,18 @@ ul.resume_social li a {
 
 .footer {
     padding: 1em;
-    background: #15ca87;
+    background: #bedce3;
     text-align: center;
 }
 
 .footer * {
     margin: 0;
-    color: white !important;
+    color: #1c1c1c !important;
 }
 
 .button-contact {
-    background-color: #15ca87;
+    background-color: #bedce3;
     border-radius: 100%;
-    color: white !important;
-    padding: 10px;
+    color: #1c1c1c !important;
+    padding: 13px;
 }
