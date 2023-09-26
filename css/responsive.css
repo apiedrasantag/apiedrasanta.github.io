@@ -9,14 +9,17 @@ Larger than Desktop screen: 120.0rem (1920px)*/
     }
     
     .resume__content{
-        box-shadow: 2px 2px 6px #AAA;
+        /*box-shadow: 2px 2px 6px #AAA;*/
+        /* border-left: 1px solid #dfdfdf;
+        border-right: 1px solid #dfdfdf;
+        border-top: 1px solid #dfdfdf; */
     }
 }
 
 /* Larger than tablet screen */
 @media (min-width: 80.0rem) { 
     .resume {
-        padding: 0 15.5rem;
+        padding: 0 12.5rem;
     }
 }
 
